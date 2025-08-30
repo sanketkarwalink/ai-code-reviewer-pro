@@ -1,0 +1,54 @@
+{
+  "name": "ai-code-reviewer-pro",
+  "version": "1.0.0",
+  "description": "AI-powered code analysis platform with automated fixing and comprehensive analytics",
+  "keywords": ["ai", "code-review", "nextjs", "typescript", "openai", "code-analysis", "developer-tools"],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-code-reviewer-pro.git"
+  },
+  "homepage": "https://your-app-name.vercel.app",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-code-reviewer-pro/issues"
+  },
+  "private": false,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint",
+    "export": "next build && next export",
+    "deploy": "npm run build && npm run start",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.10.0",
+    "@huggingface/inference": "^4.7.1",
+    "@prisma/client": "^6.15.0",
+    "bcryptjs": "^3.0.2",
+    "cohere-ai": "^7.18.1",
+    "groq": "^4.6.0",
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
+    "next-auth": "^4.24.11",
+    "openai": "^5.16.0",
+    "prisma": "^6.15.0",
+    "prismjs": "^1.30.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-syntax-highlighter": "^15.6.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
