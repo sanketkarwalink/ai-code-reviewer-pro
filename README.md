@@ -7,10 +7,10 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green)](https://openai.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/ai-code-reviewer-pro)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sanketkarwalink/ai-code-reviewer-pro)
 
 ## 🚀 **Live Demo**
-[🔗 View Live Application](https://your-app-name.vercel.app) | [📖 Documentation](https://github.com/yourusername/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/yourusername/ai-code-reviewer-pro/issues)
+[🔗 View Live Application](https://ai-code-reviewer-pro.vercel.app) | [📖 Documentation](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
 
 ## 📋 **Project Overview**
 
@@ -84,7 +84,7 @@ AI Code Reviewer Pro is a comprehensive code analysis platform that leverages ad
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-code-reviewer-pro.git
+   git clone https://github.com/sanketkarwalink/ai-code-reviewer-pro.git
    cd ai-code-reviewer-pro
    ```
 
@@ -218,10 +218,10 @@ This project showcases advanced full-stack development skills including:
 
 ## 📞 **Support**
 
-- 📖 **Documentation**: [Project Wiki](https://github.com/yourusername/ai-code-reviewer-pro/wiki)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/ai-code-reviewer-pro/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/ai-code-reviewer-pro/discussions)
-- 📧 **Contact**: [your.email@example.com](mailto:your.email@example.com)
+- 📖 **Documentation**: [Project Wiki](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/sanketkarwalink/ai-code-reviewer-pro/discussions)
+- 📧 **Contact**: [sanketkarwalink@gmail.com](mailto:sanketkarwalink@gmail.com)
 
 ## ⭐ **Show Your Support**
 

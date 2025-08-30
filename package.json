@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "AI-powered code analysis platform with automated fixing and comprehensive analytics",
   "keywords": ["ai", "code-review", "nextjs", "typescript", "openai", "code-analysis", "developer-tools"],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Sanket Karwa <sanketkarwalink@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-code-reviewer-pro.git"
+    "url": "https://github.com/sanketkarwalink/ai-code-reviewer-pro.git"
   },
-  "homepage": "https://your-app-name.vercel.app",
+  "homepage": "https://ai-code-reviewer-pro.vercel.app",
   "bugs": {
-    "url": "https://github.com/yourusername/ai-code-reviewer-pro/issues"
+    "url": "https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues"
   },
   "private": false,
   "scripts": {
