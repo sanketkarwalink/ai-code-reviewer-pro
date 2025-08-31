@@ -221,7 +221,7 @@ This project showcases advanced full-stack development skills including:
 - 📖 **Documentation**: [Project Wiki](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki)
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/sanketkarwalink/ai-code-reviewer-pro/discussions)
-- 📧 **Contact**: [sanketkarwalink@gmail.com](mailto:sanketkarwalink@gmail.com)
+- 📧 **Contact**: [sanketkarwa.inbox@gmail.com](mailto:sanketkarwa.inbox@gmail.com)
 
 ## ⭐ **Show Your Support**
 
@@ -229,4 +229,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-**Built with ❤️ by [Your Name]** | **Contact**: [your.email@example.com] | **Portfolio**: [yourwebsite.com]
+**Built with ❤️ by Sanket Karwa | **Contact**: sanketkarwa.inbox@gmail.com | **Portfolio**: Currently Making.
