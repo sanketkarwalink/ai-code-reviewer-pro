@@ -9,7 +9,10 @@
     "typescript",
     "openai",
     "code-analysis",
-    "developer-tools"
+    "developer-tools",
+    "ai-assisted-development",
+    "prompt-engineering",
+    "github-copilot"
   ],
   "author": "Sanket Karwa <sanketkarwalink@gmail.com>",
   "license": "MIT",
