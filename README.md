@@ -3,13 +3,7 @@
 > **A sophisticated AI-powered code analysis platform built with Next.js, TypeScript, and OpenAI GPT-4**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.5.2-black)](https://nextjs.org/)
-[![TypeScript](https://img.shield## 📞 **Support**
-
-- 📖 **Documentation**: [Project Wiki](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki)
-- 🤖 **AI Development Process**: [AI_DEVELOPMENT_PROCESS.md](AI_DEVELOPMENT_PROCESS.md)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/sanketkarwalink/ai-code-reviewer-pro/discussions)
-- 📧 **Contact**: [sanketkarwalink@gmail.com](mailto:sanketkarwalink@gmail.com)adge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green)](https://openai.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -268,4 +262,6 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-**Built with ❤️ by Sanket Karwa | **Contact**: sanketkarwa.inbox@gmail.com | **Portfolio**: Currently Making.
+---
+
+**Built with ❤️ by Sanket Karwa** | **Contact**: [sanketkarwa.inbox@gmail.com](mailto:sanketkarwa.inbox@gmail.com) | **Portfolio**: [GitHub Profile](https://github.com/sanketkarwalink)
