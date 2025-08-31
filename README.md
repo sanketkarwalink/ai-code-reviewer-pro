@@ -7,10 +7,10 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green)](https://openai.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sanketkarwalink/ai-code-reviewer-pro)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sanketkarwalink/ai-code-reviewer-pro)
 
 ## 🚀 **Live Demo**
-[🔗 View Live Application](https://ai-code-reviewer-pro.vercel.app) | [📖 Documentation](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
+[🔗 View Live Application](https://YOUR_ACTUAL_VERCEL_URL.vercel.app) | [📖 Documentation](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
 
 ## 🤖 **AI-Assisted Development Approach**
 
