@@ -4,6 +4,8 @@
 
 This project was built using modern **AI-assisted development practices**, demonstrating how effective collaboration between human creativity and AI capabilities can produce professional-grade applications.
 
+**🔗 Live Application**: [https://ai-code-reviewer-sanket.netlify.app](https://ai-code-reviewer-sanket.netlify.app)
+
 ## 🎯 **Development Philosophy**
 
 ### **AI-First Approach**

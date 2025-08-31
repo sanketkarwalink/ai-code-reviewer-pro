@@ -10,7 +10,7 @@
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sanketkarwalink/ai-code-reviewer-pro)
 
 ## 🚀 **Live Demo**
-[🔗 View Live Application](https://YOUR_ACTUAL_VERCEL_URL.vercel.app) | [📖 Documentation](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
+[🔗 View Live Application](https://ai-code-reviewer-sanket.netlify.app) | [📖 Documentation](https://github.com/sanketkarwalink/ai-code-reviewer-pro/wiki) | [🐛 Report Bug](https://github.com/sanketkarwalink/ai-code-reviewer-pro/issues)
 
 ## 🤖 **AI-Assisted Development Approach**
 
